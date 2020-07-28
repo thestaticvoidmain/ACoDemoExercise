@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Description": "Buy 5, get 20 percent off on 5th item.",
+    "MinQuantity": 5,
+    "DiscountValue": 20,
+    "DiscountTypeId": 2
+  },
+  {
+    "Id": 2,
+    "Description": "Buy 2, get 100 dollars off.",
+    "MinQuantity": 2,
+    "DiscountValue": 100,
+    "DiscountTypeId": 1
+  },
+  {
+    "Id": 3,
+    "Description": "Buy 4, get 100 percent off on 4th item.",
+    "MinQuantity": 4,
+    "DiscountValue": 100,
+    "DiscountTypeId": 2
+  },
+  {
+    "Id": 4,
+    "Description": "Buy 2, get one item free.",
+    "MinQuantity": 2,
+    "DiscountValue": 1,
+    "DiscountTypeId": 3
+  }
+]

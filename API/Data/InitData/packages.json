@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Kids Party",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 220,
+    "ImgURL": "Images/kidsparty.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Wine Tour",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 440,
+    "ImgURL": "Images/wine.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Team Building",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend.",
+    "Price": 800,
+    "ImgURL": "Images/teambuilding.png"
+  },
+  {
+    "Id": 4,
+    "Name": "Picnic",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede.",
+    "Price": 110,
+    "ImgURL": "Images/picnic.png"
+  }
+]

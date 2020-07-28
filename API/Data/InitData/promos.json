@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "PackageId": 1,
+    "DiscountId": 1,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 2,
+    "PackageId": 2,
+    "DiscountId": 1,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 3,
+    "PackageId": 3,
+    "DiscountId": 1,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 4,
+    "PackageId": 4,
+    "DiscountId": 1,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 5,
+    "PackageId": 3,
+    "DiscountId": 2,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 6,
+    "PackageId": 2,
+    "DiscountId": 3,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 7,
+    "PackageId": 4,
+    "DiscountId": 3,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  },
+  {
+    "Id": 8,
+    "PackageId": 4,
+    "DiscountId": 4,
+    "StartDate": "2020-01-01",
+    "EndDate": "2020-12-31"
+  }
+]

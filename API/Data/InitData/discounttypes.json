@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "DollarDiscount"
+  },
+  {
+    "Id": 2,
+    "Name": "ItemPercentDiscount"
+  },
+  {
+    "Id": 3,
+    "Name": "ItemQuantityDiscount"
+  }
+]
